@@ -1,4 +1,4 @@
-# Welcome to Thapa Technical React Ecommerce Webstie Series 
+# Welcome to Opera Store
 
 ## Follow the 3 Steps and your good to go. 
 

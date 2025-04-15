@@ -7,7 +7,7 @@ const cartContext=createContext();
 
 const getLocalData=()=>{
 
-    // store cart item in local storage
+ 
      let localCartData=localStorage.getItem("dataCart");
     // if(localCartData === [])
     // {

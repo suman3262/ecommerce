@@ -9,14 +9,7 @@ const getLocalData=()=>{
 
  
      let localCartData=localStorage.getItem("dataCart");
-    // if(localCartData === [])
-    // {
-    //     return [];
-    // }
-    // else{
-    //     // back string to normal
-    //     return JSON.parse(localCartData);
-    // }
+
     let ParseData=JSON.parse(localCartData);
     if(!Array.isArray(localCartData)) 
     {
